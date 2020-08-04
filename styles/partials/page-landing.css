@@ -58,6 +58,7 @@
 
 .button-container a img {
     width: 4rem;
+    margin-right: 2.1rem;
 }
 
 .button-container a.study {
@@ -77,6 +78,18 @@
 
 .button-container a.give-classes:hover {
     background: var(--color-secondary-dark);
+}
+
+.total-connections {
+    font-size: 2rem;
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.total-connections img {
+    margin-left: 0.8rem;
 }
 
 /* implementação posterior */
